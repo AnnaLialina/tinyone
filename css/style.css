@@ -1,0 +1,220 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+body {
+	font-family: 'PT Sans', sans-serif;
+}
+header{
+	background: url('../img/tinyone.png');
+	height: 741px;
+}
+	header nav {
+		padding-top: 60px;
+		padding-bottom: 68px;
+	}
+	header ul {
+		list-style: none;
+	}
+	header ul li {
+		display: inline-block;
+	}
+	header ul li a {
+		margin-left:68px;
+		color: #010101;
+		font-size: 22px;
+		font-weight: 700;
+		line-height: 20px;
+
+	}
+	header ul li:hover a {
+		color:#610038;
+		text-decoration: none;
+	}
+	header .col-md-7 {
+		padding-left: 15px;
+	}
+	header h2 {
+		color: #010101;
+		font-size: 32px;
+		font-weight: 700;
+		line-height: 18px;
+		text-align: left;
+		margin-bottom: 22px;
+		padding-top: 73px;
+	}
+	header h4 {
+		color: #313841;
+		font-size: 20px;
+		font-weight: 400;
+		line-height: 24px;
+		text-align: left;
+		margin-bottom: 23px;
+		margin-right: 190px;
+	}
+	header p {
+		color: #545454;
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 20px;
+		padding-right: 140px;
+	}
+	header .social {
+		margin-top: 40px;
+	}
+	header .social-icons {
+		width:39px;
+		height:40px;
+		padding: 0px;
+		margin-right: 38px;
+	}
+	header .social-icons i {
+		color: #010101;
+		font-size: 42px;
+	}
+	header .social-icons:hover i {
+		color: #292b71;
+	}
+
+	header .col-md-5 {
+		padding-left: 65px;
+	}
+.content {
+	margin-top:118px;
+	margin-bottom: 87px;
+}
+	.content h1 {
+		color: #010101;
+		font-size: 32px;
+		font-weight: 700;
+		line-height: 32px;
+		margin-bottom: 17px;
+	}
+	.container .text-center p {
+		color: #313841;
+		font-size: 20px;
+		font-weight: 400;
+		line-height: 24px;
+		margin-bottom: 91px;
+	}
+	.content i {
+		width: 52px;
+		font-size: 50px;
+		color: #010101;
+		float:left;
+	}
+	.content .col-md-4 h3 {
+		margin-top: 0px;
+		margin-left: 67px;
+		color: #010101;
+		font-size: 22px;
+		font-weight: 400;
+		line-height: 24px;
+	}
+	.content .col-md-4 p {
+		margin-left: 67px;
+		color: #898989;
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 20px;
+	}
+	.content .row {
+		margin-bottom: 87px;
+	}
+footer {
+	background: url('../img/backgrfooter.png');
+	height: 767px;
+	padding-top: 96px;
+}
+	footer .footer-top {
+		border-bottom: 1px solid #fff;
+		padding-bottom: 65px;
+	}
+	.footer-top-content {
+		width:732px;
+		margin:auto;
+	}
+	footer .footer-top h3 {
+		color: #fcdb00;
+		font-size: 32px;
+		font-weight: 700;
+		line-height: 32px;
+		margin-top: 0px;
+		margin-bottom: 17px;
+	}
+	footer .footer-top .text-center p {
+		color: #898989;
+		font-size: 20px;
+		font-weight: 400;
+		line-height: 24px;
+		margin-bottom: 41px;
+	}
+	footer .contact {
+		margin-bottom: 79px;
+	}
+	footer .footer-top input {
+		width: 580px;
+		height: 50px;
+	}
+	footer .btn{
+ 		border-style: solid;
+		border-width: 2px;
+		border-color:  #010101;
+		background-color:  #fcdb00;
+		padding: 14px 40px;
+
+	}
+	footer .btn span{
+		color: #010101;
+		font-size: 16px;
+		font-weight: 700;
+		line-height: 24px;
+		text-align: left;
+}
+	footer .footer-top ul {
+		list-style: none;
+	}
+	footer .footer-top ul li {
+		display: inline-block;
+	}
+	.footer-top ul li {
+		background-color: #fcdb00;
+		display: inline-block;
+		width: 36px;
+		height: 36px;
+		margin-right:36px;
+		color:#010101;
+		border-radius: 3px;
+	}
+	footer .footer-top li i {
+		font-size: 30px;
+		font-weight: 400;
+		color:#010101;
+		margin-top: 2px;
+		text-align: right;
+		width: 36px;
+	}
+	footer .footer-top li:hover i {
+		color:#292b71;
+	}
+	footer .footer-bottom {
+		padding-top: 65px;
+	}
+	.footer-bottom .col-md-4 p {
+		padding-left: 5px;
+		color: #ffffff;
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 20px;
+	}
+	.footer-bottom ul{
+		padding-left: 0px;
+		list-style-type: none;
+	}
+	.footer-bottom ul li {
+		color: #ffffff;
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 20px;
+	}
+	.footer-bottom a {
+		text-decoration: none;
+	}
+
